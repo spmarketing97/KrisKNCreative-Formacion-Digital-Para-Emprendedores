@@ -256,7 +256,7 @@ Todos los enlaces redirigen al blog principal:
 
 Para dudas o modificaciones contactar a:
 - Email: solucionesworld2016@gmail.com
-- Web: KrisKNCreative.short.gy/digital-emprende
+- Web: [KrisKNCreative.short.gy/digital-emprende](https://KrisKNCreative.short.gy/digital-emprende)
 
 ## 📝 Changelog
 
@@ -275,4 +275,5 @@ Para dudas o modificaciones contactar a:
 **Desarrollado con ❤️ para KrisKNCreative**
 
 *Transformando conocimiento en negocios digitales exitosos desde 2020*
+
 
