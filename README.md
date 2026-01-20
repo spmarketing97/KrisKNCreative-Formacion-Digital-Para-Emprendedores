@@ -255,8 +255,8 @@ Todos los enlaces redirigen al blog principal:
 ## 📞 Soporte
 
 Para dudas o modificaciones contactar a:
-- Email: soporte@kriskncreative.com
-- Web: https://kris-kn-creative.com
+- Email: solucionesworld2016@gmail.com
+- Web: KrisKNCreative.short.gy/digital-emprende
 
 ## 📝 Changelog
 
@@ -275,3 +275,4 @@ Para dudas o modificaciones contactar a:
 **Desarrollado con ❤️ para KrisKNCreative**
 
 *Transformando conocimiento en negocios digitales exitosos desde 2020*
+
